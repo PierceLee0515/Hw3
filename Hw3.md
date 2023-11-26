@@ -1,3 +1,9 @@
+<h1>Hw3</h1>
+
+```swift
+
+
+
 import SwiftUI
 struct ContentView: View {
     var body:some View{
@@ -152,3 +158,4 @@ struct P9View: View{
     }
 }
 
+```
