@@ -158,4 +158,6 @@ struct P9View: View{
     }
 }
 
-```![IMG_0500](https://github.com/PierceLee0515/Hw3/assets/149958668/1ec9f419-de49-4117-8571-7dbe05598c4a)
+```
+![IMG_0500](https://github.com/PierceLee0515/Hw3/assets/149958668/f8030cd1-0279-4138-8131-1b24373a1f4a)
+
